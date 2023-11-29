@@ -21,6 +21,8 @@
 
 .select {
   padding: 6rem;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 #category-select {
